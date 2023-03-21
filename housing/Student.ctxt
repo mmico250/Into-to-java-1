@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=name\ studNum
+comment1.target=Student(java.lang.String,\ int)
+comment1.text=Constructor
+comment2.params=
+comment2.target=java.lang.String\ getStudentName()
+comment2.text=Method\ to\ get\ student\ Name
+comment3.params=
+comment3.target=int\ getStudentNum()
+comment3.text=Method\ to\ get\ Student\ Number
+comment4.params=
+comment4.target=java.lang.String\ dateCreated()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=Method\ to\ Print\ Student\ Info
+comment6.params=a\ b
+comment6.target=java.lang.String\ compareTo(Student,\ Student)
+comment6.text=Method\ to\ compare\ student\ number
+numComments=7
