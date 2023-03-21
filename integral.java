@@ -1,0 +1,27 @@
+/**
+*function for finding integral
+@ Mico Mike
+@september 24,2020
+*/
+import java.lang.Math;
+public class integral
+{
+   public static void main(String[] args)
+   {
+      int x;
+      x=2;
+      int fx;
+      int gx;
+      int hx;
+      int one;
+      int a;
+      int b;
+      int intergration;
+      one=1;
+      fx=(x*x*x)+(2*x*x)-(5*x)+one;
+      gx=(x*x*x*x*x*x)-one;
+      hx=(a*x*x*x*x*x*x*x)-(b*x);
+      integration=(-fx)+fx;
+      System.out.println("rt"+ integral);
+   }
+}   
