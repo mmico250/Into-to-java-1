@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ElectronicPaycheck
+comment1.params=name\ day\ month\ year\ payAmount\ accountNum
+comment1.target=ElectronicPaycheck(java.lang.String,\ int,\ int,\ int,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=otherCheck
+comment3.target=int\ compareTo(ElectronicPaycheck)
+comment4.params=
+comment4.target=double\ getPayAmount()
+numComments=5
