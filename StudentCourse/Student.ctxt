@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ student\ object\r\n\r\n\ @Mico\ Mike\r\n\ 14/11/2020\r\n
+comment1.params=name\ studentNum\ courseCount\ class1\ class2\ class3\ class4\ class5\ class6
+comment1.target=Student(java.lang.String,\ int,\ int,\ Course,\ Course,\ Course,\ Course,\ Course,\ Course)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Student\r\n
+comment2.params=count
+comment2.target=int\ setCount(int)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=int\ getCount()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=stdnt
+comment5.target=java.lang.String\ compareTo(Student)
+numComments=6

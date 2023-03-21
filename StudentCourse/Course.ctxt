@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Course
+comment0.text=\r\n\ course\ object.\r\n\r\n\ @Mico\ Mike\r\n\ 14/11/2020\r\n
+comment1.params=courseName\ Instructor\ creditHours\ courseDailyTime
+comment1.target=Course(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Course\r\n
+comment2.params=
+comment2.target=int\ getHours()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=subject
+comment4.target=java.lang.String\ compareTo(Course)
+numComments=5
